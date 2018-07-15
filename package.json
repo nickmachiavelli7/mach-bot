@@ -1,0 +1,12 @@
+{
+  "name": "MachBot",
+  "version": "1.0.0",
+  "description": "Machiavelli's Bot",
+  "main": "bot.js",
+  "author": "Machiavelli",
+  "dependencies": {
+    "date-and-time": "^0.6.2",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.0.0"
+  }
+}
